@@ -27,10 +27,16 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-id="NDTV 24x7-IN" tvg-name="NDTV 24x7-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="NEWS",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1, group-title="NEWS",CNN HD US
-http://premium-iptv.link:7899/abcd1234/abcd1234/7254
+#EXTINF:-1, group-title="NEWS",Aljazeera HD
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1, group-title="NEWS",FOX News HD
 http://premium-iptv.link:7899/abcd1234/abcd1234/8410
+#EXTINF:-1, group-title="NEWS",BBC HD
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="NEWS",CNN HD
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="NEWS",NHK WORLD HD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8?fluxustv.m3u8
 
 
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS",Fox Sports News
