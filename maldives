@@ -7,3 +7,35 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 http://w1.viastreaming.net:1935/yestv/live/playlist.m3u8
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",PSM NEWS HD
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
+
+
+#EXTINF:-4 group-title="HINDI MOVIES" tvg-logo=" ",kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-4 group-title="music" tvg-logo=" ",B4u Miusic
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="HINDI MOVIES",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="HINDI MOVIES",Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HINDI MOVIES",Boogle Bollywood
+http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="music",SHEMAROO HINDI
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="NEWS",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 tvg-id="NDTV 24x7-IN" tvg-name="NDTV 24x7-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="NEWS",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="SPORTS",D Sport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vHYFQYR.png" group-title="SPORTS",Fox Sports 1
+https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
+
+
+
+
